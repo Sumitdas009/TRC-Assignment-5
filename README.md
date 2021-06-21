@@ -10,7 +10,7 @@
 ### 2. Write the command $  npm i mdbootstrap
 ### --------------------------------------------------------------------------
 
-## Project Name: Awards Show-Case
+## Project Name: Team Alexa's Forum
 
 # Steps to use this form:
 
