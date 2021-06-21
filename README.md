@@ -17,6 +17,8 @@
 ### 1. Clone this repository.
 ### 2. Download the .zip file.
 ### 3. Then extraxt the file, and paste in a folder/drive.
-### 4. Open the index.html file.
+### 4. Open the side.html file.
 
 ## Note: make sure that all the content of the folder are in one place
+
+![My Projects - Google Chrome 21-06-2021 18_11_05](https://user-images.githubusercontent.com/64792024/122763915-8317ed00-d2bc-11eb-8df6-5f69f24b02f0.png)
