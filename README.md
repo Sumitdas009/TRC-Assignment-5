@@ -21,4 +21,5 @@
 
 ## Note: make sure that all the content of the folder are in one place
 
-![My Projects - Google Chrome 21-06-2021 18_11_05](https://user-images.githubusercontent.com/64792024/122763915-8317ed00-d2bc-11eb-8df6-5f69f24b02f0.png)
+![My Projects - Google Chrome 21-06-2021 18_11_05](https://user-images.githubusercontent.com/64792024/122764023-a6429c80-d2bc-11eb-9c14-68c08a1fdcea.png)
+
